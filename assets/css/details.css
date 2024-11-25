@@ -1,0 +1,24 @@
+.pokemon-detail {
+    text-align: center;
+    margin: 20px;
+}
+
+.pokemon-detail img {
+    width: 150px;
+    height: 150px;
+}
+
+#pokemonTypes {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#pokemonTypes li {
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #6c79db;
+    color: white;
+}
